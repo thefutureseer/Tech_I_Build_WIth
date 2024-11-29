@@ -53,3 +53,5 @@ Certainly! Here's an expanded explanation with a section discussing when JavaScr
    - JavaScript is rarely used for embedded systems or microcontroller programming. C or Python tends to be more appropriate in these scenarios.
 
 ---
+
+I have many projects on Github that are done with JavaScript.
