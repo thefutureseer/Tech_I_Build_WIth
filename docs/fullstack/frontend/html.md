@@ -1,7 +1,7 @@
 
 ---
 
-## My HTML Expertise: The Language of the Web
+## HTML: The Language of the Web
 
 ### What is HTML?
 HTML (HyperText Markup Language) is the standard language used to create and structure content on the web. It provides the fundamental building blocks for all web pages, enabling the display of text, images, links, forms, and multimedia. Every website relies on HTML as its foundation, making it an essential skill for web development.
