@@ -1,9 +1,10 @@
 # JavaScript
 
 ## Overview
+With 6 years of experience using JavaScript, I have honed skills in both client-side and server-side development, crafting robust, scalable, and user-friendly applications.
 JavaScript is a popular go-to language for web development. From dynamic client-side behavior to server-side logic using Node.js, JavaScript empowers us to build robust and scalable applications. With its ability to work seamlessly across the entire stack, JavaScript continues to be a popular cornerstone in web development workflow.
 
-Certainly! Here's an expanded explanation with a section discussing when JavaScript is a great choice and when it might not be the best tool for the job. You can incorporate this into your documentation.
+Here's an expanded explanation with a section discussing when JavaScript is a great choice and when it might not be the best tool for the job. You can incorporate this into your documentation.
 
 ---
 
