@@ -13,7 +13,7 @@ These are the popular Technologies I use on my projects and stories, some privat
 
 - [JSX](./docs/jsx.md): HTML-like syntax extension for React development, enabling seamless integration of UI logic with JavaScript.
 
-- [Next.js](./docs/fullstacknextjs.md): Expertise in building fast, server-side rendered, and static websites with **Next.js**. Proficient in its built-in features like routing, API capabilities, and performance optimizations.
+- [Next.js](./docs/fullstack/nextjs.md): Expertise in building fast, server-side rendered, and static websites with **Next.js**. Proficient in its built-in features like routing, API capabilities, and performance optimizations.
 
 - [Handlebars](./docs/handlebars.md): Expertise in using **Handlebars** as a templating engine for dynamic, server-rendered HTML in MVC architectures.
 
