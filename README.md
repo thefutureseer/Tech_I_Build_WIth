@@ -2,9 +2,9 @@
 
 These are the popular Technologies I use on my projects and stories, some private, some public. Here, you'll find write-ups about each technology, why, when and when NOT to use them, and links to projects where I've implemented them.
 
-- [HTML](./docs/html.md): The backbone of web structure and semantics. Proficient in creating accessible and SEO-optimized web pages.
+- [HTML](./docs/fullstack/frontend/html.md): The backbone of web structure and semantics. Proficient in creating accessible and SEO-optimized web pages.
 
-- [CSS](./docs/css.md): Expertise in styling and responsive design. Skilled in:
+- [CSS](./docs/fullstack/frontend/css.md): Expertise in styling and responsive design. Skilled in:
   - **Flexbox**: For building complex layouts with ease.
   - **Media Queries**: To ensure fully responsive designs across devices.
   - Frameworks and Libraries: **Tailwind CSS** for utility-first design, **Bootstrap** for rapid development, and other CSS libraries.
@@ -15,9 +15,9 @@ These are the popular Technologies I use on my projects and stories, some privat
 
 - [Next.js](./docs/fullstack/nextjs.md): Expertise in building fast, server-side rendered, and static websites with **Next.js**. Proficient in its built-in features like routing, API capabilities, and performance optimizations.
 
-- [Handlebars](./docs/handlebars.md): Expertise in using **Handlebars** as a templating engine for dynamic, server-rendered HTML in MVC architectures.
+- [Handlebars](./docs/fullstack/frontend/handlebars.md): Expertise in using **Handlebars** as a templating engine for dynamic, server-rendered HTML in MVC architectures.
 
-- [Backend](./docs/backend.md): Expertise in server-side development, REST/GraphQL API design, and middleware implementation. Skilled in authentication and authorization techniques, including **JSON Web Token (JWT)**, **OAuth**, and role-based access control (RBAC). Proficient in ORM tools like **Prisma** and **Sequelize** for efficient database integration.
+- [Backend](./docs/fullstack/backend.md): Expertise in server-side development, REST/GraphQL API design, and middleware implementation. Skilled in authentication and authorization techniques, including **JSON Web Token (JWT)**, **OAuth**, and role-based access control (RBAC). Proficient in ORM tools like **Prisma** and **Sequelize** for efficient database integration.
 
 - [Real-Time Communication](./docs/realtime.md): Proficient in implementing real-time features such as live notifications, chat systems, and collaborative tools using **Pusher** for WebSocket-based updates. Skilled in integrating server-side and client-side communication for seamless real-time user experiences.
 
