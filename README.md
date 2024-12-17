@@ -7,7 +7,15 @@ These are the popular Technologies I use on my projects and stories, some privat
 - [CSS](./docs/fullstack/frontend/css.md): Expertise in styling and responsive design. Skilled in:
   - **Flexbox**: For building complex layouts with ease.
   - **Media Queries**: To ensure fully responsive designs across devices.
-  - Frameworks and Libraries: **Tailwind CSS** for utility-first design, **Bootstrap** for rapid development, and other CSS libraries.
+  - **Frameworks and Libraries**:  
+    - [Tailwind CSS](./docs/fullstack/frontend/tailwind.md): Advanced experience with utility-first design, including:  
+      - Building modern, responsive UIs adaptable to various devices and screen sizes.  
+      - Customizing Tailwind configurations with custom colors, typography, breakpoints, and aspect ratios.  
+      - Optimizing production builds by purging unused styles for improved performance.  
+      - Integrating animations, including **SVG animations**, using Tailwind’s utilities and additional libraries like **GSAP** or **Framer Motion**.  
+    - **Bootstrap**: For rapid and consistent UI development.  
+    - Other CSS libraries for advanced styling solutions.
+
 
 - [JavaScript](./docs/js.md): Core programming language for interactivity and logic. Experienced in ES6+ features, asynchronous programming, and DOM manipulation.
 
