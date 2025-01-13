@@ -7,7 +7,7 @@ Python is a versatile, high-level programming language known for its readability
 
 ## **Why Python?**  
 - **Versatility**: Suitable for web development, scripting, data science, machine learning, and more.  
-- **Rich Ecosystem**: Comprehensive standard library and frameworks like Django, Flask, and FastAPI.  
+- **Rich Ecosystem**: Comprehensive standard library and frameworks like React, Django, Flask, and FastAPI.  
 - **Readability**: Designed for clarity and simplicity, enhancing collaboration and maintainability.  
 
 ---
@@ -15,20 +15,19 @@ Python is a versatile, high-level programming language known for its readability
 ## **Key Skills and Experience**  
 
 ### **Web Development**  
-- Built RESTful APIs and microservices using **Flask** and **FastAPI**.  
-- Designed scalable web applications with **Django**, leveraging its ORM and built-in admin interface.  
+- Built RESTful APIs and microservices using **React** and **FastAPI**.  
+- Designed small web applications with **React**, leveraging its ORM and built-in admin interface.  
 
 ### **Scripting and Automation**  
 - Created automation scripts to handle repetitive tasks, improve workflows, and optimize processes.  
-- Proficient with libraries like **os**, **shutil**, and **subprocess** for system-level scripting.  
+- Used libraries like **os**, **shutil**, and **subprocess** for system-level scripting.  
 
 ### **Data Analysis and Visualization**  
-- Processed and analyzed large datasets using **Pandas** and **NumPy**.  
+- Processed and analyzed small datasets using **Pandas** and **NumPy**.  
 - Visualized data with **Matplotlib**, **Seaborn**, and **Plotly**.  
 
 ### **Machine Learning**  
 - Developed machine learning models using **scikit-learn** and **TensorFlow**.  
-- Worked with large datasets to train, test, and deploy predictive models.  
 
 ### **Testing and Debugging**  
 - Wrote unit tests with **unittest** and **pytest** to ensure code reliability.  
